@@ -28,10 +28,12 @@ READ OR WATCH
 - [Enzyme](https://enzymejs.github.io/enzyme/docs/api/shallow.html)
 
 
+<br>
+
 **TASKS**
 | S/N | DESCRIPTION | FILE |
 |-----|-------------|------|
-| 0. Basic application | <p>Create a basic app named dashboard using create-react-app in your task_0 directory</p><p>You will need a favicon and the Holberton logo. Download them and add them to the src/ directory under dashboard/ <li>In App.js, create a header div with a class named App-header containing the Holberton logo and a h1 with the text School dashboard</li><li>a body div with a class named App-body containing at least one paragraph with the text Login to access the full dashboard</li>a footer div with a class named App-footer containing at least one paragraph with the text Copyright 2020 - holberton School<li></li></p<li>>|[App.js](https://github.com/Oliveth96/alx-react/0x01-react_intro/task_0/dashboard/src/App.js)</li><li>[App.css](https://github.com/Oliveth96/alx-react/0x01-react_intro/task_0/dashboard/src/App.js)</li>|
+| 0. Basic application | <p>Create a basic app named dashboard using create-react-app in your task_0 directory</p><p>You will need a favicon and the Holberton logo. Download them and add them to the src/ directory under dashboard/ <li>In App.js, create a header div with a class named App-header containing the Holberton logo and a h1 with the text School dashboard</li><li>a body div with a class named App-body containing at least one paragraph with the text Login to access the full dashboard</li><li>a footer div with a class named App-footer containing at least one paragraph with the text Copyright 2020 - holberton School</li></p>|<li>[App.js](https://github.com/Oliveth96/alx-react/0x01-react_intro/task_0/dashboard/src/App.js)</li><li>[App.css](https://github.com/Oliveth96/alx-react/0x01-react_intro/task_0/dashboard/src/App.js)</li>|
 
 
 <br>

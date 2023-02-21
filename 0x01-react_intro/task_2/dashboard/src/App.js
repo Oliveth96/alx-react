@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/alt-text */
-import logo from "./holbertonLogo.jpg";
+import logo from "./Holberton_logo.jpg";
 import { getFooterCopy } from "./utils";
 import "./App.css";
 
